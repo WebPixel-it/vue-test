@@ -4,10 +4,10 @@
       <div :class="$style.central">
         <v-row>
           <v-card :class="$style.card1">
-            <v-card-title>Select your seat</v-card-title>
+            <v-card-title>Please select your seat</v-card-title>
 
             <div :class="$style.seatlist">
-              <p>Selected seat:</p>
+              <p>Selected seats:</p>
               <p v-for="number in seatNumber" :key="number">{{ number }},</p>
             </div>
 

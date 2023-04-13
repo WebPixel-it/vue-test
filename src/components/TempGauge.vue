@@ -103,7 +103,7 @@ export default {
             },
             data: [
               {
-                value: 36
+                value: 0
               }
             ]
           },
@@ -146,7 +146,7 @@ export default {
             },
             data: [
               {
-                value: 36
+                value: 0
               }
             ]
           }
