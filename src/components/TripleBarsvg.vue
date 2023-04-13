@@ -78,4 +78,15 @@ export default {
   align-items: center;
   background-color: rgb(241, 241, 241);
 }
+
+@media only screen and (max-width: 900px) {
+  .main {
+    background: #d3d2d2;
+    margin-top: 20px;
+  }
+  .chart {
+    box-shadow: 5px 5px 14px #c4c3c3, -5px -5px 14px #e2e1e1;
+    height: 400px;
+  }
+}
 </style>

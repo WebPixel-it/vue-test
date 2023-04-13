@@ -26,7 +26,7 @@
         <div class="d-flex justify-center align-center h-100"></div>
       </template>
 
-      <v-app-bar-title>Vue 3 Practice App</v-app-bar-title>
+      <v-app-bar-title>Vue App</v-app-bar-title>
 
       <v-spacer></v-spacer>
 

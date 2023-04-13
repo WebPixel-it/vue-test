@@ -42,7 +42,7 @@ export default {
             max: 50,
             splitNumber: 10,
             itemStyle: {
-              color: '#58D9F9',
+              color: '#b30d0d',
               shadowColor: 'rgba(0,138,255,0.45)',
               shadowBlur: 10,
               shadowOffsetX: 2,
@@ -116,8 +116,8 @@ export default {
             max: 50,
 
             itemStyle: {
-              color: '#5CABBF',
-              shadowColor: 'rgba(0,138,255,0.75)',
+              color: '#5f1010',
+              shadowColor: 'rgba(95,16,16,0.75)',
               shadowBlur: 5,
               shadowOffsetX: 2,
               shadowOffsetY: 2

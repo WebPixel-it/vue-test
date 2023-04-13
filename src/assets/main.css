@@ -8,7 +8,7 @@
   align-items: flex-start;
   margin: 0;
   padding: 0;
-  background-color: rgb(241, 241, 241);
+  background-color: #f1f1f1;
   font-weight: normal;
   overflow-x: hidden;
 }
@@ -36,5 +36,12 @@ a,
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 0 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    background: #d3d2d2;
+    padding: 0px;
   }
 }

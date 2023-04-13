@@ -52,7 +52,7 @@ export default {
             roam: true,
             selectedMode: 'multiple',
             layoutCenter: ['45%', '40%'],
-            layoutSize: '120%',
+            layoutSize: '300%',
             tooltip: {
               show: true
             },
@@ -123,7 +123,6 @@ export default {
             }
             //pass selected seat data to parent component
             seatNumber = selectedNames
-            console.log(seatNumber)
             this.$emit('setseatNumber', seatNumber)
           }.bind(this)
           //end emit code
