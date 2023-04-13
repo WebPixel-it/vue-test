@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import BookingPage from '../components/BookingPage.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <BookingPage />
   </main>
 </template>
